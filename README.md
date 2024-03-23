@@ -1,1 +1,1 @@
-Siteyi İncelemek İçin [tıklayınız](https://ismetonursahin.github.io/Music-Store-Bootstrap/)
+Siteyi ziyaret etmek için [tıklayınız](https://ismetonursahin.github.io/Music-Store-Bootstrap/)
